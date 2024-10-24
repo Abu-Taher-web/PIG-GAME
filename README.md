@@ -12,7 +12,7 @@ To run the game, follow these steps:
 2. Open the `index.html` file in a web browser to play the game.
 
 ## Screenshot
-![Screenshot of PIG GAME](images/screenshot.png)
+![Screenshot of PIG GAME](project_home_page_pic.png)
 
 ## Technologies Used
 - HTML
