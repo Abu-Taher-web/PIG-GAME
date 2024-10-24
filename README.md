@@ -42,4 +42,4 @@ To run the game, follow these steps:
 No contributions are required for this project.
 
 ## License
-This project is not licensed.
+MIT
