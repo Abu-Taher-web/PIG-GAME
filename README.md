@@ -7,7 +7,7 @@ PIG GAME is a simple, two-player dice game developed during the 2nd year of my b
 To run the game, follow these steps:
 1. Download or clone the repository to your computer:
     ```bash
-    git clone https://github.com/your-username/pig-game.git
+    git clone https://github.com/Abu-Taher-web/PIG-GAME.git
     ```
 2. Open the `index.html` file in a web browser to play the game.
 
